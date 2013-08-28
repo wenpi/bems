@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="319"
+   name=""
+   committed-date="2012-07-26T02:33:41.175915Z"
+   url="https://180.84.33.71/svn/code/bems_v4/WebContent/html/dataCollection"
+   last-author="lpm"
+   kind="dir"
+   uuid="02ff48c8-90cc-dc4a-a253-a421a55c1c6b"
+   repos="https://180.84.33.71/svn/code"
+   revision="327"/>
+<entry
+   committed-rev="314"
+   name="dataCollection.ammeter.html"
+   text-time="2012-07-26T00:22:51.090756Z"
+   committed-date="2012-07-26T00:09:59.461972Z"
+   checksum="3beccc5d9417bdfce26d0d1927e5c00e"
+   last-author="qfp"
+   kind="file"
+   prop-time="2012-07-26T00:22:51.050756Z"/>
+<entry
+   committed-rev="314"
+   name="dataCollection.water.html"
+   text-time="2012-07-26T00:22:51.110757Z"
+   committed-date="2012-07-26T00:09:59.461972Z"
+   checksum="fe395aa1e7d11868c5b9c324d948b39e"
+   last-author="qfp"
+   kind="file"
+   prop-time="2012-07-26T00:22:51.080756Z"/>
+<entry
+   committed-rev="328"
+   name="dataCollection.telephone.html"
+   text-time="2012-07-26T04:22:07.487466Z"
+   committed-date="2012-07-29T03:08:52.175527Z"
+   checksum="261db4454faa338ad8b6b6901f1f8949"
+   last-author="lpm"
+   kind="file"
+   prop-time="2012-07-25T17:03:54.488541Z"
+   revision="328"/>
+</wc-entries>

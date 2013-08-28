@@ -1,0 +1,62 @@
+.has_img_to_handle_table img
+ {
+ 	width:55px;
+	height:65px;
+	margin:1px;
+ }
+ 
+ #user_manage_emergency_member_btn
+ {
+ 	width:200px;
+ }
+#emergency_member_manage_add_table
+{
+	width:800px;
+}
+
+#emergency_manage_look_table
+{
+	margin-bottom:13px;
+	margin-top:13px;
+	margin-left:150px;
+	width:90%;
+}
+#table_head_span
+{
+	margin-left:400px;
+}
+
+#emergency_add_type
+{
+	margin-left:400px;
+}
+#user_add
+{
+	margin-left:300px;
+}
+
+
+
+#emergency_member_manage_look_div
+{
+	margin-left:200px;
+}
+
+#emergency_member_manage_add_div
+{
+	margin-left:100px;
+}
+
+#user_manage_emergency_add_member_btn
+{
+	margin-top:13px;
+	margin-left:500px;
+}
+
+
+
+
+
+
+
+

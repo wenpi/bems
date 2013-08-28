@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="290"
+   name=""
+   committed-date="2012-07-24T08:42:22.452757Z"
+   url="https://180.84.33.71/svn/code/bems_v4/WebContent/WEB-INF"
+   last-author="lpm"
+   kind="dir"
+   uuid="02ff48c8-90cc-dc4a-a253-a421a55c1c6b"
+   repos="https://180.84.33.71/svn/code"
+   revision="327"/>
+<entry
+   name="lib"
+   kind="dir"/>
+<entry
+   committed-rev="289"
+   name="web.xml"
+   text-time="2012-07-24T08:38:58.477183Z"
+   committed-date="2012-07-24T08:35:09.224396Z"
+   checksum="bdd225ec300c1d3dcc159ef208f937dc"
+   last-author="tqc"
+   kind="file"
+   prop-time="2012-07-24T08:38:58.447181Z"/>
+</wc-entries>

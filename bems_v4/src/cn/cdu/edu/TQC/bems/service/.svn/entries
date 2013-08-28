@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="323"
+   name=""
+   committed-date="2012-07-26T07:09:11.994550Z"
+   url="https://180.84.33.71/svn/code/bems_v4/src/cn/cdu/edu/TQC/bems/service"
+   last-author="tqc"
+   kind="dir"
+   uuid="02ff48c8-90cc-dc4a-a253-a421a55c1c6b"
+   repos="https://180.84.33.71/svn/code"
+   revision="327"/>
+<entry
+   committed-rev="275"
+   name="AnalysisReportService.java"
+   text-time="2012-07-21T07:10:32.727802Z"
+   committed-date="2012-07-21T07:13:39.750736Z"
+   checksum="a7fd3b8e3f4164315707361e96e9ffb4"
+   last-author="lpm"
+   kind="file"
+   prop-time="2012-07-21T01:40:31.961263Z"/>
+<entry
+   committed-rev="223"
+   name="FloorService.java"
+   text-time="2012-07-21T01:40:32.113272Z"
+   committed-date="2012-07-18T11:06:30.932955Z"
+   checksum="17a8404a6a24b813c3b2dd49529e4caa"
+   last-author="lpm"
+   kind="file"
+   prop-time="2012-07-21T01:40:31.966264Z"/>
+<entry
+   committed-rev="223"
+   name="AmmeterDataService.java"
+   text-time="2012-07-21T01:40:32.121273Z"
+   committed-date="2012-07-18T11:06:30.932955Z"
+   checksum="e8369ee102b22a262f0b30eb87b841ec"
+   last-author="lpm"
+   kind="file"
+   prop-time="2012-07-21T01:40:31.988265Z"/>
+<entry
+   committed-rev="279"
+   name="EmergncyGroupService.java"
+   text-time="2012-07-22T08:13:40.071641Z"
+   committed-date="2012-07-22T08:11:54.064441Z"
+   checksum="60e69af4b9e86bb1e517d419d396530d"
+   last-author="tqc"
+   kind="file"
+   prop-time="2012-07-22T08:13:39.997637Z"/>
+<entry
+   committed-rev="277"
+   name="TestFormSubmitService.java"
+   text-time="2012-07-22T06:36:52.386460Z"
+   committed-date="2012-07-22T06:36:12.476143Z"
+   checksum="cd2d381f1f86ddb0c1531ba3d4e556c0"
+   last-author="qfp"
+   kind="file"
+   prop-time="2012-07-22T06:36:52.365459Z"/>
+<entry
+   committed-rev="328"
+   name="InformService.java"
+   text-time="2012-07-27T07:38:59.973871Z"
+   committed-date="2012-07-29T03:08:52.175527Z"
+   checksum="d8e2f9d325fedd07bb13286bd82b44af"
+   last-author="lpm"
+   kind="file"
+   revision="328"/>
+<entry
+   committed-rev="223"
+   name="AmmeterService.java"
+   text-time="2012-07-21T01:40:32.143274Z"
+   committed-date="2012-07-18T11:06:30.932955Z"
+   checksum="e34ff86f8d877e06fc6fcc3f2dd4d185"
+   last-author="lpm"
+   kind="file"
+   prop-time="2012-07-21T01:40:32.019267Z"/>
+<entry
+   committed-rev="223"
+   name="BuildingService.java"
+   text-time="2012-07-21T01:40:32.157275Z"
+   committed-date="2012-07-18T11:06:30.932955Z"
+   checksum="5ca696980f63007f2b3be01671bd5ce8"
+   last-author="lpm"
+   kind="file"
+   prop-time="2012-07-21T01:40:32.030267Z"/>
+<entry
+   committed-rev="223"
+   name="EmergncyStaffService.java"
+   text-time="2012-07-21T01:40:32.150274Z"
+   committed-date="2012-07-18T11:06:30.932955Z"
+   checksum="15fb89e4d377b455902e73da33c74bc3"
+   last-author="lpm"
+   kind="file"
+   prop-time="2012-07-21T01:40:32.024267Z"/>
+<entry
+   committed-rev="323"
+   name="AmmeterAnalysisService.java"
+   text-time="2012-07-26T07:30:39.402470Z"
+   committed-date="2012-07-26T07:09:11.994550Z"
+   checksum="a8def475f63f6b9fb141021a2a4f7572"
+   last-author="tqc"
+   kind="file"
+   prop-time="2012-07-26T07:30:39.389470Z"/>
+<entry
+   committed-rev="289"
+   name="ExcelService.java"
+   text-time="2012-07-24T08:38:58.181166Z"
+   committed-date="2012-07-24T08:35:09.224396Z"
+   checksum="c953ef585e45a244debc150ce6065bd6"
+   last-author="tqc"
+   kind="file"
+   prop-time="2012-07-24T08:38:58.144164Z"/>
+<entry
+   committed-rev="223"
+   name="UrlService.java"
+   text-time="2012-07-21T01:40:32.177276Z"
+   committed-date="2012-07-18T11:06:30.932955Z"
+   checksum="0d6bcdf09d079e1ac0409ae25523c9ed"
+   last-author="lpm"
+   kind="file"
+   prop-time="2012-07-21T01:40:32.045268Z"/>
+<entry
+   committed-rev="223"
+   name="PhoneDataService.java"
+   text-time="2012-07-21T01:40:32.191277Z"
+   committed-date="2012-07-18T11:06:30.932955Z"
+   checksum="6259328ad302ba5e30dc49b9a308928a"
+   last-author="lpm"
+   kind="file"
+   prop-time="2012-07-21T01:40:32.055269Z"/>
+<entry
+   committed-rev="328"
+   name="StaffService.java"
+   text-time="2012-07-26T13:10:27.951629Z"
+   committed-date="2012-07-29T03:08:52.175527Z"
+   checksum="14ac268fe89b492ffba98a5e1c38cc45"
+   last-author="lpm"
+   kind="file"
+   prop-time="2012-07-26T05:10:18.818841Z"
+   revision="328"/>
+<entry
+   committed-rev="223"
+   name="MeterDataService.java"
+   text-time="2012-07-21T01:40:32.198277Z"
+   committed-date="2012-07-18T11:06:30.932955Z"
+   checksum="83b2a1b9058281382a2e6d36b3c970e4"
+   last-author="lpm"
+   kind="file"
+   prop-time="2012-07-21T01:40:32.060269Z"/>
+<entry
+   committed-rev="223"
+   name="PhoneService.java"
+   text-time="2012-07-21T01:40:32.205277Z"
+   committed-date="2012-07-18T11:06:30.932955Z"
+   checksum="96bc3109d6a73a7718813bbfe9bb899b"
+   last-author="lpm"
+   kind="file"
+   prop-time="2012-07-21T01:40:32.065269Z"/>
+<entry
+   committed-rev="272"
+   name="TemplateService.java"
+   text-time="2012-07-21T03:05:32.745012Z"
+   committed-date="2012-07-21T03:23:25.970317Z"
+   checksum="5d9c72a7772aaeb3d506f249fa0685df"
+   last-author="lpm"
+   kind="file"
+   prop-time="2012-07-21T01:40:32.072270Z"/>
+<entry
+   committed-rev="223"
+   name="PhoneFeeAnalysis.java"
+   text-time="2012-07-21T01:40:32.247280Z"
+   committed-date="2012-07-18T11:06:30.932955Z"
+   checksum="dcc7a8976c976911dd835dcd54f3cf9f"
+   last-author="lpm"
+   kind="file"
+   prop-time="2012-07-21T01:40:32.089271Z"/>
+<entry
+   committed-rev="223"
+   name="MeterService.java"
+   text-time="2012-07-21T01:40:32.254280Z"
+   committed-date="2012-07-18T11:06:30.932955Z"
+   checksum="cf699e0952411a900f9278366f938cc6"
+   last-author="lpm"
+   kind="file"
+   prop-time="2012-07-21T01:40:32.094271Z"/>
+<entry
+   committed-rev="224"
+   name="DeviceDataAnalysis.java"
+   text-time="2012-07-21T01:40:33.163332Z"
+   committed-date="2012-07-18T11:18:53.260259Z"
+   checksum="a24cb824aece1437ab4c7e6a4c45b8dc"
+   last-author="lpm"
+   kind="file"
+   prop-time="2012-07-21T01:40:32.099271Z"/>
+</wc-entries>

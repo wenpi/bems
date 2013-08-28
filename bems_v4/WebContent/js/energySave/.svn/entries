@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="320"
+   name=""
+   committed-date="2012-07-26T04:20:33.660778Z"
+   url="https://180.84.33.71/svn/code/bems_v4/WebContent/js/energySave"
+   last-author="qfp"
+   kind="dir"
+   uuid="02ff48c8-90cc-dc4a-a253-a421a55c1c6b"
+   repos="https://180.84.33.71/svn/code"
+   revision="327"/>
+<entry
+   committed-rev="314"
+   name="energySave.look.js"
+   text-time="2012-07-26T00:22:51.490757Z"
+   committed-date="2012-07-26T00:09:59.461972Z"
+   checksum="d41d8cd98f00b204e9800998ecf8427e"
+   last-author="qfp"
+   kind="file"
+   prop-time="2012-07-26T00:22:51.470757Z"/>
+<entry
+   committed-rev="320"
+   name="energySave.making.js"
+   text-time="2012-07-26T05:10:20.062912Z"
+   committed-date="2012-07-26T04:20:33.660778Z"
+   checksum="1c9d640e2df053f77ac3df734438d6b6"
+   last-author="qfp"
+   kind="file"
+   prop-time="2012-07-26T05:10:20.050911Z"/>
+</wc-entries>

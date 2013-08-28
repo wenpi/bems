@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+
+<link rel="stylesheet"
+	href="css/userManagement/userManagement.emergency.css">
+
+</head>
+<body>
+
+	<div id="user_manage_emergency_div" class="data_div">
+		<fieldset>
+			<legend>应急小组管理</legend>	
+			
+			<div id="user_manage_emergency_add_div" class="type_div">
+				<span id="table_head_span">系统应急小组</span>
+				
+				<table border="1" id="emergency_manage_look_table"
+					class="has_img_to_handle_table">
+					<tr class="handle_head_tr">
+						<td>序号</td>
+						<td>小组名称</td>
+						<td>管理小组成员</td>
+						<td>修改/查看</td>
+						<td>删除</td>
+					</tr>
+				</table>
+				
+				<input type="button" id="emergency_add_type" value="继续添加应急小组" />
+               <!--  <div id="emergncy_table"></div>--> 
+			</div>
+			
+			
+			
+			<div id="user_add" class="type_div">
+
+				<form id="user_manage_emergency_add_form">
+					<table>
+						<tr>
+							<td style="text-align: right;">应急小组名:</td>
+							<td style="text-align: left;"><input name="emergency_name" id="emergency_name"
+								type="text" placeholder="请输入应急小组名"></td>
+						</tr>
+
+						<tr>
+							<td style="vertical-align: top; text-align: right;">应急小组名描述:</td>
+							<td><textarea name="emergency_description"
+									id="emergency_description" cols="30" rows="6">
+								</textarea></td>
+						</tr>
+						<tr>
+							<td colspan="2" style="text-align: center;"><input
+								type="button" id="water_basic_data_submitBtn" value="提交">
+								<input type="reset" value="重置">
+								<input type="button" id="black_btn" value="返回">
+								</td>
+
+						</tr>
+
+					</table>
+				</form>
+
+			</div>
+			
+
+			<!--===============================-->
+
+
+
+
+			<div id="emergency_member_manage_look_div" class="type_div">
+				
+				<form id="emergency_member_manage_form">
+					<table border="1" id="emergency_member_manage_look_table"
+						class="has_img_to_handle_table">
+						<thead>
+							<tr>
+								<th>序号</th>
+								<th>头像</th>
+								<th>姓名</th>
+								<th>电话号码</th>
+								<th>职务</th>
+								<th>email</th>
+								<th>操作</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td><input type="hidden" value="sun" id="userid1" />1</td>
+								<td><img src="images/pic/1.jpg"
+									id="user_manage_look_all_pic1"></td>
+								<td id="user_manage_look_all_name1">秦凡鹏</td>
+								<td id="user_manage_look_all_tel1">13880734982</td>
+								<td id="user_manage_look_all_role1">组长</td>
+								<td id="user_manage_look_all_email1">644458812@qq.com</td>
+								<td><a href="#" id="update_user1">修改</a>&nbsp; <a href="#"
+									id="delet_user1">删除</a></td>
+							</tr>
+							<tr>
+								<td>2</td>
+								<td><img src="images/pic/2.jpg"
+									id="user_manage_look_all_pic1" /></td>
+								<td id="user_manage_look_all_name1">孙武斌</td>
+								<td id="user_manage_look_all_tel1">13880734982</td>
+								<td id="user_manage_look_all_role1">组员</td>
+								<td id="user_manage_look_all_email1">644458812@qq.com</td>
+								<td><a href="#" id="update_user1">修改</a>&nbsp; <a href="#">删除</a>
+								</td>
+							</tr>
+							<tr>
+								<td>3</td>
+								<td><img src="images/pic/3.jpg"
+									id="user_manage_look_all_pic1"></td>
+								<td id="user_manage_look_all_name1">潘阳</td>
+								<td id="user_manage_look_all_tel1">13880734982</td>
+								<td id="user_manage_look_all_role1">组员</td>
+								<td id="user_manage_look_all_email1">644458812@qq.com</td>
+								<td><a href="#">修改</a>&nbsp; <a href="#">删除</a></td>
+							</tr>
+							<tr>
+								<td>4</td>
+								<td><img src="images/pic/4.jpg"
+									id="user_manage_look_all_pic1"></td>
+								<td id="user_manage_look_all_name1">汤杰</td>
+								<td id="user_manage_look_all_tel1">13880734982</td>
+								<td id="user_manage_look_all_role1">组员</td>
+								<td id="user_manage_look_all_email1">644458812@qq.com</td>
+								<td><a href="#">修改</a>&nbsp; <a href="#">删除</a></td>
+							</tr>
+							<tr>
+								<td>5</td>
+								<td><img src="images/pic/5.jpg"
+									id="user_manage_look_all_pic1"></td>
+								<td id="user_manage_look_all_name1">李鹏明</td>
+								<td id="user_manage_look_all_tel1">13880734982</td>
+								<td id="user_manage_look_all_role1">组员</td>
+								<td id="user_manage_look_all_email1">644458812@qq.com</td>
+								<td><a href="#">修改</a>&nbsp; <a href="#">删除</a></td>
+							</tr>
+						</tbody>
+					</table>
+				</form>
+				
+				<input type="button" class="user_manage_emergency_member_btn"
+					id="user_manage_emergency_add_member_btn" value="继续添加应急小组成员">
+			</div>
+			<!--===============================-->f
+
+			<div id="emergency_member_manage_add_div" class="type_div">
+				<table border="1" id="emergency_member_manage_add_table"
+					class="has_img_to_handle_table">
+					<thead>
+						<tr>
+							<th>序号</th>
+							<th>头像</th>
+							<th>姓名</th>
+							<th>电话号码</th>
+							<th>角色</th>
+							<th>邮箱地址</th>
+							<th>操作</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td><input type="hidden" value="sun" id="userid1" />1</td>
+							<td><img src="images/pic/1.jpg"
+								id="user_manage_look_all_pic1"></td>
+							<td id="user_manage_look_all_name1">秦凡鹏</td>
+							<td id="user_manage_look_all_tel1">13880734982</td>
+							<td id="user_manage_look_all_role1">总务人员</td>
+							<td id="user_manage_look_all_email1">644458812@qq.com</td>
+							<td><a href="#" id="update_user1">添加为组长</a><br /> <a
+								href="#" id="delet_user1">添加为组员</a></td>
+						</tr>
+						<tr>
+							<td>2</td>
+							<td><img src="images/pic/2.jpg"
+								id="user_manage_look_all_pic1"></td>
+							<td id="user_manage_look_all_name1">孙武斌</td>
+							<td id="user_manage_look_all_tel1">13880734982</td>
+							<td id="user_manage_look_all_role1">中层管理者</td>
+							<td id="user_manage_look_all_email1">644458812@qq.com</td>
+							<td><a href="#" id="update_user1">添加为组长</a><br /> <a
+								href="#">添加为组员</a></td>
+						</tr>
+						<tr>
+							<td>3</td>
+							<td><img src="images/pic/3.jpg"
+								id="user_manage_look_all_pic1"></td>
+							<td id="user_manage_look_all_name1">潘阳</td>
+							<td id="user_manage_look_all_tel1">13880734982</td>
+							<td id="user_manage_look_all_role1">总务人员</td>
+							<td id="user_manage_look_all_email1">644458812@qq.com</td>
+							<td><a href="#">添加为组长</a><br /> <a href="#">添加为组员</a></td>
+						</tr>
+						<tr>
+							<td>4</td>
+							<td><img src="images/pic/4.jpg"
+								id="user_manage_look_all_pic1"></td>
+							<td id="user_manage_look_all_name1">汤杰</td>
+							<td id="user_manage_look_all_tel1">13880734982</td>
+							<td id="user_manage_look_all_role1">总务人员</td>
+							<td id="user_manage_look_all_email1">644458812@qq.com</td>
+							<td><a href="#">添加为组长</a><br /> <a href="#">添加为组员</a></td>
+						</tr>
+						<tr>
+							<td>5</td>
+							<td><img src="images/pic/5.jpg"
+								id="user_manage_look_all_pic1"></td>
+							<td id="user_manage_look_all_name1">李鹏明</td>
+							<td id="user_manage_look_all_tel1">13880734982</td>
+							<td id="user_manage_look_all_role1">总务人员</td>
+							<td id="user_manage_look_all_email1">644458812@qq.com</td>
+							<td><a href="#">添加为组长</a><br /> <a href="#">添加为组员</a></td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+
+		</fieldset>
+
+
+	</div>
+
+<script src="js/userManagement/userManagement.emergency.js"></script>
+</body>
+</html>

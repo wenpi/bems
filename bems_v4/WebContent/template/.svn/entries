@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="325"
+   name=""
+   committed-date="2012-07-26T12:41:12.481739Z"
+   url="https://180.84.33.71/svn/code/bems_v4/WebContent/template"
+   last-author="tqc"
+   kind="dir"
+   uuid="02ff48c8-90cc-dc4a-a253-a421a55c1c6b"
+   repos="https://180.84.33.71/svn/code"
+   revision="327"/>
+<entry
+   committed-rev="300"
+   name="acceptMsg.template"
+   text-time="2012-07-25T05:48:29.008479Z"
+   committed-date="2012-07-25T06:12:07.868891Z"
+   checksum="c172a4e700f5457855d6d32193ec38ea"
+   last-author="lpm"
+   kind="file"/>
+<entry
+   committed-rev="325"
+   name="choose_user.template"
+   text-time="2012-07-26T12:49:49.750808Z"
+   committed-date="2012-07-26T12:41:12.481739Z"
+   checksum="3b1249834124426b2db11b3b8fff9ab8"
+   last-author="tqc"
+   kind="file"
+   prop-time="2012-07-26T12:49:49.736807Z"/>
+<entry
+   committed-rev="300"
+   name="Contacts.template"
+   text-time="2012-07-25T05:47:31.943215Z"
+   committed-date="2012-07-25T06:12:07.868891Z"
+   checksum="adf33c11a98a7a66913de92cdbe00a83"
+   last-author="lpm"
+   kind="file"/>
+<entry
+   committed-rev="290"
+   name="allMsg.template"
+   text-time="2012-07-24T05:40:53.604043Z"
+   committed-date="2012-07-24T08:42:22.452757Z"
+   checksum="ba399692b26ce10dc060504ca4bfcff3"
+   last-author="lpm"
+   kind="file"/>
+<entry
+   committed-rev="316"
+   name="ammeter.table.template"
+   text-time="2012-07-26T02:32:09.791099Z"
+   committed-date="2012-07-26T00:44:34.608817Z"
+   checksum="e6c785a9951a4522b15e5350d0a7f8d9"
+   last-author="tqc"
+   kind="file"
+   prop-time="2012-07-26T02:32:09.715095Z"/>
+<entry
+   committed-rev="291"
+   name="phone.table2.template"
+   text-time="2012-07-24T10:55:56.385094Z"
+   committed-date="2012-07-24T11:36:00.494255Z"
+   checksum="513b4ca61e467ab3ff26afb4a690ec3d"
+   last-author="lpm"
+   kind="file"
+   prop-time="2012-07-23T10:30:09.556990Z"/>
+<entry
+   committed-rev="291"
+   name="phone.table3.template"
+   text-time="2012-07-24T10:56:02.386437Z"
+   committed-date="2012-07-24T11:36:00.494255Z"
+   checksum="a468a00e1b0f455e68d656d65715b9cb"
+   last-author="lpm"
+   kind="file"/>
+<entry
+   committed-rev="292"
+   name="meter.table1.template"
+   text-time="2012-07-24T12:11:55.728873Z"
+   committed-date="2012-07-24T12:36:32.695435Z"
+   checksum="e09c2376ce17e17b9a6b956257f406ef"
+   last-author="lpm"
+   kind="file"/>
+<entry
+   committed-rev="291"
+   name="meter.table2.template"
+   text-time="2012-07-24T11:30:26.563501Z"
+   committed-date="2012-07-24T11:36:00.494255Z"
+   checksum="ad2684b84aeb5c76fa8f8325655f9bd7"
+   last-author="lpm"
+   kind="file"/>
+<entry
+   committed-rev="291"
+   name="meter.table4.template"
+   text-time="2012-07-24T11:00:00.624063Z"
+   committed-date="2012-07-24T11:36:00.494255Z"
+   checksum="0d4e8a427ec7cb0f7225b008857cdddc"
+   last-author="lpm"
+   kind="file"/>
+<entry
+   committed-rev="291"
+   name="meter.table5.template"
+   text-time="2012-07-24T11:32:02.577993Z"
+   committed-date="2012-07-24T11:36:00.494255Z"
+   checksum="2e8a772be387e2f7e7c3775d5d94d09d"
+   last-author="lpm"
+   kind="file"/>
+<entry
+   committed-rev="291"
+   name="phone.table.template"
+   text-time="2012-07-24T10:55:29.465554Z"
+   committed-date="2012-07-24T11:36:00.494255Z"
+   checksum="eec8418d5e7b2299224a905bf4cbea1d"
+   last-author="lpm"
+   kind="file"/>
+<entry
+   committed-rev="322"
+   name="emergncy.table.template"
+   text-time="2012-07-26T07:30:39.904499Z"
+   committed-date="2012-07-26T07:04:27.840051Z"
+   checksum="b8c3862e108cf53f80b84d496471270a"
+   last-author="tqc"
+   kind="file"
+   prop-time="2012-07-26T07:30:39.893499Z"/>
+<entry
+   committed-rev="290"
+   name="sendMsg.template"
+   text-time="2012-07-24T06:00:21.183825Z"
+   committed-date="2012-07-24T08:42:22.452757Z"
+   checksum="2830f655c19abc640100e4fb7da0854b"
+   last-author="lpm"
+   kind="file"/>
+<entry
+   committed-rev="316"
+   name="ammeter.table1.template"
+   text-time="2012-07-26T02:32:09.805100Z"
+   committed-date="2012-07-26T00:44:34.608817Z"
+   checksum="9f49f79efc45a9dbf45edcac37d7ca36"
+   last-author="tqc"
+   kind="file"
+   prop-time="2012-07-26T02:32:09.749097Z"/>
+<entry
+   committed-rev="291"
+   name="meter.table.template"
+   text-time="2012-07-24T11:00:36.567119Z"
+   committed-date="2012-07-24T11:36:00.494255Z"
+   checksum="61941ac140eecb54956a57fdaf40a3fc"
+   last-author="lpm"
+   kind="file"/>
+</wc-entries>

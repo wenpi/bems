@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="318"
+   name=""
+   committed-date="2012-07-26T01:40:49.284744Z"
+   url="https://180.84.33.71/svn/code/bems_v4/WebContent/js/dataAnalysis"
+   last-author="tqc"
+   kind="dir"
+   uuid="02ff48c8-90cc-dc4a-a253-a421a55c1c6b"
+   repos="https://180.84.33.71/svn/code"
+   revision="327"/>
+<entry
+   committed-rev="318"
+   name="dataAnalysis.ammeter.js"
+   text-time="2012-07-26T02:32:09.925107Z"
+   committed-date="2012-07-26T01:40:49.284744Z"
+   checksum="81e88290fa209cfb145ac0bbf963fbd3"
+   last-author="tqc"
+   kind="file"
+   prop-time="2012-07-26T02:32:09.912106Z"/>
+<entry
+   committed-rev="315"
+   name="dataAnalysis.water.js"
+   text-time="2012-07-26T00:22:52.480758Z"
+   committed-date="2012-07-26T00:18:14.435241Z"
+   checksum="178bb07c3f168eec9b39a77c78c76588"
+   last-author="tqc"
+   kind="file"
+   prop-time="2012-07-26T00:22:52.430758Z"/>
+<entry
+   committed-rev="309"
+   name="dataAnalysis.telephone.js"
+   text-time="2012-07-25T15:37:09.299821Z"
+   committed-date="2012-07-25T17:04:55.195576Z"
+   checksum="6c822349287ec9a26f279255c625199d"
+   last-author="lpm"
+   kind="file"
+   prop-time="2012-07-21T01:40:49.307256Z"/>
+<entry
+   committed-rev="290"
+   name="dataAnalysis.download.js"
+   text-time="2012-07-23T14:20:33.380778Z"
+   committed-date="2012-07-24T08:42:22.452757Z"
+   checksum="ef22a2f34f3fff4aafe6d37769e74151"
+   last-author="lpm"
+   kind="file"/>
+</wc-entries>

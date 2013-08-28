@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="323"
+   name=""
+   committed-date="2012-07-26T07:09:11.994550Z"
+   url="https://180.84.33.71/svn/code/bems_v4/src/cn/cdu/edu/TQC/bems"
+   last-author="tqc"
+   kind="dir"
+   uuid="02ff48c8-90cc-dc4a-a253-a421a55c1c6b"
+   repos="https://180.84.33.71/svn/code"
+   revision="327"/>
+<entry
+   name="test"
+   kind="dir"/>
+<entry
+   committed-rev="309"
+   name="Utils.java"
+   text-time="2012-07-25T16:57:05.291136Z"
+   committed-date="2012-07-25T17:04:55.195576Z"
+   checksum="37e5d5af59249f811240b58421c35bc9"
+   last-author="lpm"
+   kind="file"
+   prop-time="2012-07-23T14:09:23.066650Z"/>
+<entry
+   committed-rev="299"
+   name="ExportExcel.java"
+   text-time="2012-07-25T02:05:27.868121Z"
+   committed-date="2012-07-25T02:11:00.202466Z"
+   checksum="eb47af57ee16846d3476e5bae3ad43ee"
+   last-author="lpm"
+   kind="file"
+   prop-time="2012-07-21T01:40:29.373115Z"/>
+<entry
+   committed-rev="309"
+   name="StringUtills.java"
+   text-time="2012-07-25T16:24:47.351292Z"
+   committed-date="2012-07-25T17:04:55.195576Z"
+   checksum="888cc882a072bb2b26c14cc2fa13cc38"
+   last-author="lpm"
+   kind="file"/>
+<entry
+   name="listener"
+   kind="dir"/>
+<entry
+   name="filter"
+   kind="dir"/>
+<entry
+   name="db"
+   kind="dir"/>
+<entry
+   committed-rev="274"
+   name="DownLoadUtil.java"
+   text-time="2012-07-21T05:34:16.174402Z"
+   committed-date="2012-07-21T06:48:14.611101Z"
+   checksum="ff03cc41b7394557f592e19a87ae5937"
+   last-author="lpm"
+   kind="file"
+   prop-time="2012-07-21T01:40:31.925261Z"/>
+<entry
+   committed-rev="289"
+   name="JfreeUtils.java"
+   text-time="2012-07-24T08:38:58.249170Z"
+   committed-date="2012-07-24T08:35:09.224396Z"
+   checksum="da9ded39e3e91a71208f322fce0610ca"
+   last-author="tqc"
+   kind="file"
+   prop-time="2012-07-24T08:38:58.106162Z"/>
+<entry
+   name="service"
+   kind="dir"/>
+<entry
+   committed-rev="323"
+   name="createExcel.java"
+   text-time="2012-07-26T07:30:39.497476Z"
+   committed-date="2012-07-26T07:09:11.994550Z"
+   checksum="434fe41609aaf5d26e5672ef6274bc88"
+   last-author="tqc"
+   kind="file"
+   prop-time="2012-07-26T07:30:39.485475Z"/>
+<entry
+   committed-rev="294"
+   name="Email_Autherticator.java"
+   text-time="2012-07-24T12:56:54.407229Z"
+   committed-date="2012-07-24T13:14:47.911866Z"
+   checksum="b0cd6d034466744e0538c65a39a8c7a4"
+   last-author="lpm"
+   kind="file"
+   prop-time="2012-07-21T01:40:33.223336Z"/>
+<entry
+   committed-rev="328"
+   name="Constant.java"
+   text-time="2012-07-26T07:22:43.536252Z"
+   committed-date="2012-07-29T03:08:52.175527Z"
+   checksum="78f959d939b7d9026b29ef90dc1e9d60"
+   last-author="lpm"
+   kind="file"
+   prop-time="2012-07-21T01:40:33.229336Z"
+   revision="328"/>
+<entry
+   committed-rev="303"
+   name="Analasis.java"
+   text-time="2012-07-25T15:00:08.233783Z"
+   committed-date="2012-07-25T06:44:26.338220Z"
+   checksum="0c49798262fca270260b06f9be22b1ea"
+   last-author="tqc"
+   kind="file"
+   prop-time="2012-07-25T15:00:08.176780Z"/>
+<entry
+   committed-rev="223"
+   name="Cookies.java"
+   text-time="2012-07-21T01:40:33.378344Z"
+   committed-date="2012-07-18T11:06:30.932955Z"
+   checksum="43f8117c5c4655676afd032c8639505a"
+   last-author="lpm"
+   kind="file"
+   prop-time="2012-07-21T01:40:33.251337Z"/>
+<entry
+   committed-rev="319"
+   name="ReadExcel.java"
+   text-time="2012-07-26T01:29:59.463737Z"
+   committed-date="2012-07-26T02:33:41.175915Z"
+   checksum="f1cef01c189986aea6566455fbd9df05"
+   last-author="lpm"
+   kind="file"
+   prop-time="2012-07-23T14:09:23.176650Z"/>
+<entry
+   committed-rev="328"
+   name="SendMail.java"
+   text-time="2012-07-27T07:53:46.903600Z"
+   committed-date="2012-07-29T03:08:52.175527Z"
+   checksum="18566785ee3f0d380f4fb682480ec662"
+   last-author="lpm"
+   kind="file"
+   revision="328"/>
+<entry
+   name="action"
+   kind="dir"/>
+<entry
+   committed-rev="318"
+   name="AmmeterTypeFloorAndId.java"
+   text-time="2012-07-26T02:32:09.463081Z"
+   committed-date="2012-07-26T01:40:49.284744Z"
+   checksum="4cf1d68741f9c06c57eacf7a040752c3"
+   last-author="tqc"
+   kind="file"
+   prop-time="2012-07-26T02:32:09.448080Z"/>
+</wc-entries>
